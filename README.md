@@ -1,4 +1,4 @@
-# infura-rubhttps://github.com/ethereum/wiki/wiki/JSON-RPCy
+# InfuraRuby
 
 Ruby gem to wrap the [INFURA](https://github.com/ethereum/wiki/wiki/JSON-RPC() API which gives HTTP API access to ethereum and IPFS nodes. The API uses the same format as the [JSON RPC spec](https://github.com/ethereum/wiki/wiki/JSON-RPCi) for normal ethereum nodes.
 
