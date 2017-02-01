@@ -1,5 +1,5 @@
-require 'infura_ruby/version'
-require 'infura_ruby/client'
+require_relative 'infura_ruby/version'
+require_relative 'infura_ruby/client'
 
 module InfuraRuby
   class InvalidApiKeyError < StandardError; end

@@ -23,7 +23,7 @@ infura.get_balance('0x81F631b8615EaB75d38DaC4d4bce4A5b63e10310') #=> 59168602485
 # This can be qualified with 4 different tags to get the balance at the tag's time.
 # 'latest'   - latest balance (default) with at least 1 confirmation
 # 'pending'  - balance including pending transactions
-# 'earliest' - balance at the time of the genesis block
+# 'earliest' - balance at the time of the genesis block or earliest known block
 # '0x123'    - balance at the time of chain height `0x123` (hex string)
 
 # balance including unconfirmed transactions
